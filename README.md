@@ -1,1 +1,1 @@
-# git-merge — 8 weeks of building with AI
+merge feature/title: keep both intents
