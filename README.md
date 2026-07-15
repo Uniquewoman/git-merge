@@ -1,3 +1,1 @@
-# git-mergeee
-gg
-h
+# git-merge — 8 weeks of building with AI
