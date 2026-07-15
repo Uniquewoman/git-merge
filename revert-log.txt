@@ -1,0 +1,7 @@
+c081d40 Revert "oops: add junk file"
+1a2eff9 oops: add junk file
+a622faa merge feature/title: keep both intents
+78c9b38 Update README.md
+d4774b4 Update README.md
+7d4c9a7 Rename project from 'git-merge' to 'git-mergeee'
+07d07ef Initial commit
